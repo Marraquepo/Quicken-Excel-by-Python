@@ -1,5 +1,5 @@
-本 GitHub 仓库中的代码及资源，均源自多本公开出版的参考书籍，仅供个人学习与研究使用。
-严禁将任何内容用于商业目的，否则可能构成版权侵犯，需承担相应法律责任。本声明代表本仓库维护者对内容使用目的及版权归属的理解与承诺。
+本 GitHub 仓库中的代码及资源，均源自多本公开出版的参考书籍，**仅供个人学习与研究使用**。
+**严禁将任何内容用于商业目的**，否则可能构成版权侵犯，需承担相应法律责任。本声明代表本仓库维护者对内容使用目的及版权归属的理解与承诺。
 
 The code and resources in tThis GitHub repository are derived from multiple publicly published reference books,
 and are solely intended for personal learning and research purposes.
